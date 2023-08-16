@@ -101,7 +101,12 @@ El reto consiste en proponer una solución al problema de movilidad urbana en M�
 Para la realización del reto se utilizarán únicamente dos agentes. Los agentes de tipo auto y los agentes de tipo semáforo. 
 Diagrama de clase presentando los distintos agentes involucrados.
 
-- ![grupomultiagentesequipo2](google.com)
+### Diagrama de clase presentando los distintos agentes involucrados.
+
+- ![Diagrama de clase](diagramadeclase.jpeg)
+- 
+### Diagrama de clase presentando los distintos agentes involucrados.
+- ![Diagrama de protocolos de interacción.](diagramadeprotocolosdeinteraccion.jpeg)
 
 ## Plan de trabajo actualizado
 - [Backlog](https://github.com/users/VMink/projects/1)
