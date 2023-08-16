@@ -1,9 +1,9 @@
 # Modelación de sistemas multiagentes con gráficas computacionales (TC2008B.102)
 
-Equipo 2  
-Actividad: M5. Revisión de avance 1  
-Fecha de entrega: 15 de agosto de 2023  
-Profesores:  
+### Equipo 2  
+### Actividad: M5. Revisión de avance 1  
+### Fecha de entrega: 15 de agosto de 2023  
+### Profesores:  
 - Edgar Covantes Osuna  
 - Raúl Valente Ramírez Velarde  
 
