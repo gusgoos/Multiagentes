@@ -90,7 +90,7 @@ Profesores:
 
 - [Repositorio en GitHub](https://github.com/VMink/Multiagentes.git)
 - Herramienta de comunicación: Grupo de WhatsApp
-- ![grupomultiagentesequipo2](multiagentesequipo2.jpeg)
+- ![grupomultiagentesequipo2](./images/multiagentesequipo2.jpeg)
 
 ## Propuesta formal del reto 
 
@@ -103,13 +103,14 @@ Diagrama de clase presentando los distintos agentes involucrados.
 
 ### Diagrama de clase presentando los distintos agentes involucrados.
 
-- ![Diagrama de clase](diagramadeclase.jpeg)
+- ![Diagrama de clase](./images/diagramadeclase.jpeg)
 - 
 ### Diagrama de clase presentando los distintos agentes involucrados.
-- ![Diagrama de protocolos de interacción.](diagramadeprotocolosdeinteraccion.jpeg)
+- ![Diagrama de protocolos de interacción.](./images/diagramadeprotocolosdeinteraccion.jpeg)
 
 ## Plan de trabajo actualizado
 - [Backlog](https://github.com/users/VMink/projects/1)
+- ![Backlog](./images/backlog.jpeg)
 
 En la descripción de cada asignación viene estipulado el periodo en el que se debe de realizar cada actividad, como tambien quienes son los responsables de realizar cada una de estas, de igual manera se colocaron diversas columnas para que el equipo sepa en todo momento el estado de alguna tarea, siendo la columna “To Do” para las actividades por hacer, “In progress” para las actividades que ya se están realizando, “Ready” para las actividades que ya han sido completadas pero que hace falta la revisión de algún miembro del equipo para validar que es correcta y pasarla a la última columna, “Done” que serán las actividades completadas y validadas por el equipo.
 
