@@ -91,3 +91,23 @@ Profesores:
 - [Repositorio en GitHub](https://github.com/VMink/Multiagentes.git)
 - Herramienta de comunicación: Grupo de WhatsApp
 - ![grupomultiagentesequipo2](multiagentesequipo2.jpeg)
+
+## Propuesta formal del reto 
+
+### Descripción del reto a desarrollar.
+El reto consiste en proponer una solución al problema de movilidad urbana en México, mediante un enfoque que reduzca la congestión vehicular al simular de manera gráfica el tráfico, representando la salida de un sistema multi agentes. Por lo que se propondrá una solución para el tráfico generado en una intersección vial. En donde haya 4 calles, las cuales a su vez tendrán 4 carriles. Para lo que se realizará la simulación de los autos manejando en la intersección y los semáforos que son capaces de identificar la cantidad de autos que se encuentran en su carril.
+
+### Identificación de los agentes involucrados.
+Para la realización del reto se utilizarán únicamente dos agentes. Los agentes de tipo auto y los agentes de tipo semáforo. 
+Diagrama de clase presentando los distintos agentes involucrados.
+
+- ![grupomultiagentesequipo2](google.com)
+
+## Plan de trabajo actualizado
+- [Backlog](https://github.com/users/VMink/projects/1)
+
+En la descripción de cada asignación viene estipulado el periodo en el que se debe de realizar cada actividad, como tambien quienes son los responsables de realizar cada una de estas, de igual manera se colocaron diversas columnas para que el equipo sepa en todo momento el estado de alguna tarea, siendo la columna “To Do” para las actividades por hacer, “In progress” para las actividades que ya se están realizando, “Ready” para las actividades que ya han sido completadas pero que hace falta la revisión de algún miembro del equipo para validar que es correcta y pasarla a la última columna, “Done” que serán las actividades completadas y validadas por el equipo.
+
+## Aprendizaje adquirido
+
+Aprendimos las bases de cómo funcionan los agentes y la manera en la que interactúan entre ellos así como a manipularlos. Recapitulamos acerca del paradigma de la programación orientada a objetos en Python. Por último vimos una pequeña recapitulación acerca de vectores y matrices para poder trabajar con ellos.
