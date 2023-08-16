@@ -90,4 +90,4 @@ Profesores:
 
 - [Repositorio en GitHub](https://github.com/VMink/Multiagentes.git)
 - Herramienta de comunicación: Grupo de WhatsApp
-- ![grupomultiagentesequipo2](https://imgur.com/a/L9D0lKq)
+- ![grupomultiagentesequipo2](multiagentesequipo2.jpeg)
