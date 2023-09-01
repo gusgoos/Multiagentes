@@ -20,7 +20,7 @@
 
 Se diseñará un sistema donde se simula la intersección de una calle. En la intersección se encuentran carros manejando en su carril designado según su destino. Cada dirección posee un semáforo que dirige el comportamiento de los carros. Su objetivo es actuar de forma inteligente para resolver la problemática del tráfico de la forma más eficiente posible. A continuación se presenta una imagen de ejemplo del tipo de intersección que se desea modelar.
 
-- ![interseccion](./images/interseccion.jpeg)
+- ![interseccion](./images/interseccion.jpg)
 
 Para el modelo de la simulación se utilizará un MultiGrid donde cada auto utilizara una celda del modelo y pasarán por debajo del semáforo.
 Para la activación de la simulación se utilizará SimultaneousActivation. Se generarán carros de manera aleatoria en cada calle de la intersección y avanzarán de manera simultánea en el step dependiendo de la luz del semáforo.
