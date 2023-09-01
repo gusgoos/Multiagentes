@@ -36,7 +36,10 @@ Para la activación de la simulación se utilizará SimultaneousActivation. Se g
                                         - Cada lado del semáforo se encarga de comunicarse con el grid para consultar la acumulación de carAgent en las coordenadas que le corresponden dependiendo de la ubicación del semáforo. |
 
 ## Plan de trabajo actualizado
-- [Repositorio en GitHub con backlog](https://github.com/VMink/Multiagentes.git)
+- [Repositorio en GitHub](https://github.com/VMink/Multiagentes.git)
+- [Backlog en GitHub](https://github.com/users/VMink/projects/1)
+- ![backlog](./images/backlog2.jpeg)
+
 
 ## Aprendizaje adquirido
 
