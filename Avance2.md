@@ -38,7 +38,7 @@ Para la activación de la simulación se utilizará SimultaneousActivation. Se g
 ## Plan de trabajo actualizado
 - [Repositorio en GitHub](https://github.com/VMink/Multiagentes.git)
 - [Backlog en GitHub](https://github.com/users/VMink/projects/1)
-- ![backlog](./images/backlog2.jpg)
+- ![backlog](./images/backlog2.jpeg)
 
 
 ## Aprendizaje adquirido
