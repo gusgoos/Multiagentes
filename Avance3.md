@@ -24,4 +24,4 @@
 
 ## Plan de trabajo actualizado
 - [Backlog](https://github.com/users/VMink/projects/1)
-- ![Backlog](./images/backlog3.png)
+- ![Backlog](./images/Backlog3.png)
