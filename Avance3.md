@@ -25,3 +25,9 @@
 ## Plan de trabajo actualizado
 - [Backlog](https://github.com/users/VMink/projects/1)
 - ![Backlog](./images/Backlog3.png)
+
+## Aprendizaje adquirido
+
+### Conexion de MESA con Unity
+### Modelacion en 3D y uso de vectorización con Unity
+### Movimiento de agentes en Unity
