@@ -18,6 +18,10 @@
 ### Diagrama de clase presentando los distintos agentes involucrados.
 
 - ![Diagrama de clase](./images/diagramadeclase.jpeg)
-- 
+ 
 ### Diagrama de clase presentando los distintos agentes involucrados.
 - ![Diagrama de protocolos de interacción.](./images/diagramadeprotocolosdeinteraccion.jpeg)
+
+## Plan de trabajo actualizado
+- [Backlog](https://github.com/users/VMink/projects/1)
+- ![Backlog](./images/backlog3.png)
