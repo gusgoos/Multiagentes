@@ -62,4 +62,4 @@ Make sure to follow the provided link for more detailed installation instruction
 
 2. Ensure that you've installed the `Newtonsoft.Json-for-Unity` package following the instructions in the "Requirements" section.
 
-3. [Add any additional instructions or steps for running the Unity part of your project.]
+3. In the Inspectorsection of the GameObject named AgentPositionManager_OBJECT in SampleScene, go to Agent Prefabs section and add the car prefabs you want to add to the simulation. You can pick among the car prefabs in the Assets folder: CAR_01, CAR_02, CAR_03, Car_04, Car_05, Car_06. You must add at least 1
