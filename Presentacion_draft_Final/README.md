@@ -8,6 +8,7 @@ This project is a college proyect for the CIIIA, which simulates a traffic 4-way
 
 ### Python
 
+## Pip installs
 To run the Python portion of this project, you'll need to install the following Python packages:
 
 - [Flask](https://pypi.org/project/Flask/): A micro web framework for Python.
@@ -29,7 +30,6 @@ To run the Python portion of this project, you'll need to install the following 
     ```
     pip install numpy
     ```
-
 ### Unity
 
 To set up the Unity part of the project you need to drag and drop the package `EscenaCiudad.unitypackage` into a new project's scenes to install it. You'll also need to install the following package:
@@ -56,6 +56,9 @@ Make sure to follow the provided link for more detailed installation instruction
     ```
     python Server.py
     ```
+
+### Json generation
+To run the simulation in Unity you can either use the generated jsons in the package or create your own using the files `Semaforo.py` and `Semaforo_SMART.py` which will generate a new simulation file with a preview using matplotlib.
 
 ### Unity
 
