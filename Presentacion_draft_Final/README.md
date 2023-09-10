@@ -1,8 +1,8 @@
-# Project Name
+# MultiAgents Smart Intersection
 
 ## Description
 
-This project is a college proyect for a 'Socio Formador' which simulates a traffic 4-way intersection in Unity based in the coordinates over time given by a mesa framework Python simulation.
+This project is a college proyect for the CIIIA, which simulates a traffic 4-way intersection in Unity based in the coordinates over time given by a mesa framework Python simulation.
 
 ## Requirements
 
@@ -36,9 +36,10 @@ To set up the Unity part of the project, you'll need to install the following pa
 
 - [Newtonsoft.Json-for-Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity/wiki/Install-official-via-UPM): A JSON serialization library for Unity. To install, follow these steps:
     1. Open the Unity Package Manager (Window -> Package Manager).
-    2. Enter `com.unity.nuget.newtonsoft-json` as the package name.
-    3. Enter `3.2.1` as the version (or the latest available version).
-    4. Click the "Add" button to install the package.
+    2. Add a new extension by package name 
+    3. Enter `com.unity.nuget.newtonsoft-json` as the package name.
+    4. Enter `3.2.1` as the version (or the latest available version).
+    5. Click the "Add" button to install the package.
 
 Make sure to follow the provided link for more detailed installation instructions for Newtonsoft.Json-for-Unity.
 
@@ -53,7 +54,7 @@ Make sure to follow the provided link for more detailed installation instruction
 3. Run the Python script using the following command:
 
     ```
-    python main.py
+    python Server.py
     ```
 
 ### Unity
@@ -61,5 +62,3 @@ Make sure to follow the provided link for more detailed installation instruction
 1. Open Unity and load the Unity project from the project directory.
 
 2. Ensure that you've installed the `Newtonsoft.Json-for-Unity` package following the instructions in the "Requirements" section.
-
-3. [Add any additional instructions or steps for running the Unity part of your project.]
