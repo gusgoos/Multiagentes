@@ -32,7 +32,7 @@ To run the Python portion of this project, you'll need to install the following 
 
 ### Unity
 
-To set up the Unity part of the project, you'll need to install the following package:
+To set up the Unity part of the project you need to drag and drop the package `EscenaCiudad.unitypackage` into a new project's scenes to install it. You'll also need to install the following package:
 
 - [Newtonsoft.Json-for-Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity/wiki/Install-official-via-UPM): A JSON serialization library for Unity. To install, follow these steps:
     1. Open the Unity Package Manager (Window -> Package Manager).
