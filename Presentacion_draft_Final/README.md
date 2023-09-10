@@ -65,3 +65,5 @@ To run the simulation in Unity you can either use the generated jsons in the pac
 1. Open Unity and load the Unity project from the project directory.
 
 2. Ensure that you've installed the `Newtonsoft.Json-for-Unity` package following the instructions in the "Requirements" section.
+
+3. To switch between the Normal and the Smart Light you can switch the URL in the controller object in Unity
